@@ -8,6 +8,7 @@ class WebAppDemoApplicationTests {
 
 	@Test
 	fun contextLoads() {
+		//Integration test
 	}
 
 }
